@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Most Popular Website </string>
+    <string name="squirrel">squirrel</string>
+    <string name="AAPL">AAPL</string>
+    <string name="Apple">Apple Inc.</string>
+    <string name="L_H_EX">L. 137.650  H. 143.260 Ex 100</string>
+    <string name="Price">140.620</string>
+    <string name="CHG">Chg -2.490(-1.740%)</string>
+    <string name="setting">Setting</string>
+    <string name="AddContact">Add Contact</string>
+    <string name="favourite">Favourite</string>
+    <string name="give_feedback">Give Feedback</string>
+    <string name="close_app">Close App</string>
+
+
+</resources>

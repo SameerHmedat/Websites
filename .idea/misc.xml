@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/FIT/AndroidStudioProjects/ABUDHABIBANK copy 2/app/src/main/res/layout/activity_main.xml" value="0.20863616930312098" />
+        <entry key="..\:/Users/FIT/AndroidStudioProjects/ABUDHABIBANK copy 2/app/src/main/res/layout/info_item_row.xml" value="0.20863616930312098" />
+        <entry key="..\:/Users/FIT/Desktop/ABUDHABIBANK copy 2/app/src/main/res/layout/activity_main.xml" value="0.20863616930312098" />
+        <entry key="..\:/Users/FIT/Desktop/ABUDHABIBANK copy 2/app/src/main/res/layout/activity_pdf.xml" value="0.20863616930312098" />
+        <entry key="..\:/Users/FIT/Desktop/ABUDHABIBANK copy 2/app/src/main/res/layout/info_item_row.xml" value="0.20863616930312098" />
+        <entry key="..\:/Users/FIT/Desktop/ABUDHABIBANK copy 2/app/src/main/res/layout/stockinfo_item_row.xml" value="0.20863616930312098" />
+        <entry key="app/src/main/res/drawable/ic_baseline_close_24.xml" value="0.226" />
+        <entry key="app/src/main/res/layout/activity_main.xml" value="0.25885416666666666" />
+        <entry key="app/src/main/res/layout/info_item_row.xml" value="0.2214621633176571" />
+        <entry key="app/src/main/res/layout/st.xml" value="0.271875" />
+        <entry key="app/src/main/res/layout/stockinfo_item_row.xml" value="0.375" />
+        <entry key="app/src/main/res/menu/app_bar_menu.xml" value="0.22402736212056434" />
+        <entry key="app/src/main/res/menu/menu.xml" value="0.2231722958529286" />
+        <entry key="app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" value="0.1" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
